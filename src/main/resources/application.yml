@@ -1,0 +1,19 @@
+
+
+spring.h2.console.enabled: true
+spring.mail:
+  host: smtp.gmail.com
+  port: 587
+  username: DisennoConceptual2022@gmail.com
+  password: DisennoConceptual123
+  properties.mail.smtp:
+    auth: true
+    starttls.enable: true
+
+zeebe:
+  client:
+    cloud:
+      region: bru-2
+      clusterId: 1604254b-eaeb-48e5-9b4c-f7f164db1ed6
+      clientId: vs8h_XC3YtytxVlxgMvAFZIcvc_5A_zM
+      clientSecret: F.QO8ykz0lyhmxVF56_OEcQc6rWLQ2KR-3fXGxvJAHX-8QLsg9fjUx9eHqzVqT1t
